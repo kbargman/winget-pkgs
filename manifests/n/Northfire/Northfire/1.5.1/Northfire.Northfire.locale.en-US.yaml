@@ -1,0 +1,18 @@
+# Built by Kyle Bargman
+PackageIdentifier: Northfire.Northfire
+PackageVersion: 1.5.1
+PackageLocale: en-US
+Publisher: Northfire Networks
+PublisherUrl: https://northfire.dev/
+PublisherSupportUrl: https://northfire.dev/download
+Author: Kyle Bargman
+PackageName: Northfire
+PackageUrl: https://northfire.dev/download
+License: Freeware
+ShortDescription: IRC client for the Northfire network and any other IRC server
+Description: The free Northfire IRC Client - mIRC-style chat with themes, scripting, voice and video calls, sharing and more. Connects to irc.northfire.net and any other IRC network.
+Moniker: northfire
+Tags: [irc, chat, client, northfire]
+ReleaseNotesUrl: https://northfire.dev/download
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
