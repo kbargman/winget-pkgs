@@ -1,0 +1,13 @@
+# Built by Kyle Bargman
+PackageIdentifier: Northfire.Northfire
+PackageVersion: 1.5.1
+InstallerType: nullsoft
+Scope: user
+InstallModes: [silent, silentWithProgress]
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/kbargman/northfire-releases/releases/download/v1.5.1/Northfire-1.5.1-windows-setup.exe
+  InstallerSha256: C598181933DDC8CD682DD13EA3803D4AF618333022E1EEF1EED301EBC724E907
+ManifestType: installer
+ManifestVersion: 1.6.0
